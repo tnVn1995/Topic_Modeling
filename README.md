@@ -15,8 +15,9 @@ environment.yml file of the repo by running this command:
 
 > conda env create -f environment.yml
 
-3. Open anaconda command. Type:
+3. Extract the zip file from data folder of the repo
+4. Open anaconda command. Type:
 
 > jupyter notebook
 
-4. Then navigate to the directory that contains the notebook to run it.
+5. Then navigate to the directory that contains the notebook to run it.
