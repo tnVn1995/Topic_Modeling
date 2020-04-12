@@ -16,8 +16,12 @@ environment.yml file of the repo by running this command:
 > conda env create -f environment.yml
 
 3. Extract the zip file from data folder of the repo
-4. Open anaconda command. Type:
+4. Open anaconda command. Type below to activate the environment
 
+> conda activate nlpiaenv
+
+Then type:
+ 
 > jupyter notebook
 
 5. Then navigate to the directory that contains the notebook to run it.
